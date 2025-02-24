@@ -13,11 +13,11 @@
 
 - 🌱 I’m currently learning **Nodejs**
 
-- 👨‍💻 All of my projects are available at [https://mohamed-ayad.netlify.app/](https://mohamed-ayad.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://mohamed-ayad.netlify.app/](https://ayadcode.netlify.app/)
 
 - 💬 Ask me about **Angular or Reactjs**
 
-- 📫 How to reach me **mo.ayad.9@gmail.com**
+- 📫 How to reach me **mo.ayad.9@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
